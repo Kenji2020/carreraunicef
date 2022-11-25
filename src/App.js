@@ -32,6 +32,11 @@ import legal from "./assets/LEGAL.png";
 import uniceffrase2 from "./assets/unicef-frase-2.svg";
 import calendario from "./assets/calendario.svg";
 import { AnimationOnScroll } from "react-animation-on-scroll";
+import imagenFondoNegro1 from "./assets/imagenFondoNegro1.svg";
+import imagenFondoNegro2 from "./assets/imagenFondoNegro2.svg";
+import imagenFondoNegro3 from "./assets/imagenFondoNegro3.svg";
+import imagenFondoNegro4 from "./assets/imagenFondoNegro4.svg";
+
 
 function App() {
   const ref1 = useRef(null);
@@ -131,8 +136,26 @@ Cada inscripción permite a UNICEF llevar programas de protección, salud, educa
               <img src={calendario} />
             </div>
           </div>
+        
+        <div className="container text-center">
+          <div className="row my-4">
+            <div className="col-md-6">
+              <img src={imagenFondoNegro1}/>
+            </div>
+            <div className="col-md-6">
+              <img src={imagenFondoNegro2} />
+            </div>
         </div>
-
+        <div className="row my-4">
+            <div className="col-md-6">
+              <img src={imagenFondoNegro3} />
+            </div>
+            <div className="col-md-6">
+              <img src={imagenFondoNegro4} />
+            </div>
+        </div>
+        </div>
+        </div>
         {/* footer  */}
         <div className="container row-md-6 col-xl-12 d-flex justify-content-center">
           <div>
