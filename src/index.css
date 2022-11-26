@@ -4,7 +4,7 @@ body{
   justify-content: space-between;
   background-image: url("./assets/backgroundblanco.png");
   background-repeat: no-repeat;
-  background-size: 100% 20%;
+  background-size: 100% 10%;
   background-attachment: scroll;
   padding: 0px;
   margin: 0px;
@@ -50,3 +50,11 @@ body{
   }
 
 }
+.pop:hover{
+  transform: scale(1.1);
+  transition: 0.5s;
+
+
+  }
+
+  
