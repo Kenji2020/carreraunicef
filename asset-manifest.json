@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4152a928.css",
+    "main.js": "/static/js/main.a0f2ad70.js",
+    "static/js/787.ad0a39f2.chunk.js": "/static/js/787.ad0a39f2.chunk.js",
+    "static/media/Concept6.png": "/static/media/Concept6.7db39002565fa9b0f3ae.png",
+    "static/media/concept11.png": "/static/media/concept11.de00299f9488d90409b1.png",
+    "static/media/backgroundblanco.png": "/static/media/backgroundblanco.839577af2e55cc344ddc.png",
+    "static/media/Concept4.png": "/static/media/Concept4.b7c20ed37156168d71da.png",
+    "static/media/SS.png": "/static/media/SS.3afa8782ff1dfb1548de.png",
+    "static/media/polera_liga.jpg": "/static/media/polera_liga.86c202e94a2fa8bf6800.jpg",
+    "static/media/polera_wonderwoman.jpg": "/static/media/polera_wonderwoman.b71974f24354dda5822a.jpg",
+    "static/media/polera_superman.jpg": "/static/media/polera_superman.4c16ebfb79d1eea53226.jpg",
+    "static/media/polera_batman.jpg": "/static/media/polera_batman.80afcc161ccdc1588574.jpg",
+    "static/media/Logos_HeroesRun-04.png": "/static/media/Logos_HeroesRun-04.d0f2bde3be9d04eeea1e.png",
+    "static/media/imagenFondoNegro1.svg": "/static/media/imagenFondoNegro1.5652a24268b4543cb25485be60c3fcf8.svg",
+    "static/media/imagenFondoNegro4.svg": "/static/media/imagenFondoNegro4.27a8d1ad2a39d22cbb02147ccbee697e.svg",
+    "static/media/imagenFondoNegro2.svg": "/static/media/imagenFondoNegro2.a8621ec6c567b688378dac06cb7d06de.svg",
+    "static/media/imagenFondoNegro3.svg": "/static/media/imagenFondoNegro3.20215e17bcb1d74300f545fd49cf6f75.svg",
+    "static/media/unicef-frase-2.svg": "/static/media/unicef-frase-2.0b6b68d1d6f63b171329049a25958fe7.svg",
+    "static/media/unicef_kit.svg": "/static/media/unicef_kit.aa5beb5e92a3c161b8b4510dfc26b81f.svg",
+    "static/media/calendario.svg": "/static/media/calendario.dec5b875a09a7eae351fecb5e69b2529.svg",
+    "static/media/faqs.svg": "/static/media/faqs.b5261c23680ef2ebd18342c49c74673b.svg",
+    "index.html": "/index.html",
+    "main.4152a928.css.map": "/static/css/main.4152a928.css.map",
+    "main.a0f2ad70.js.map": "/static/js/main.a0f2ad70.js.map",
+    "787.ad0a39f2.chunk.js.map": "/static/js/787.ad0a39f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152a928.css",
+    "static/js/main.a0f2ad70.js"
+  ]
+}
