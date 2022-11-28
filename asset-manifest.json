@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4152a928.css",
-    "main.js": "/static/js/main.a0f2ad70.js",
+    "main.js": "/static/js/main.697579fe.js",
     "static/js/787.ad0a39f2.chunk.js": "/static/js/787.ad0a39f2.chunk.js",
     "static/media/Concept6.png": "/static/media/Concept6.7db39002565fa9b0f3ae.png",
     "static/media/concept11.png": "/static/media/concept11.de00299f9488d90409b1.png",
@@ -16,6 +16,7 @@
     "static/media/imagenFondoNegro1.svg": "/static/media/imagenFondoNegro1.5652a24268b4543cb25485be60c3fcf8.svg",
     "static/media/imagenFondoNegro4.svg": "/static/media/imagenFondoNegro4.27a8d1ad2a39d22cbb02147ccbee697e.svg",
     "static/media/imagenFondoNegro2.svg": "/static/media/imagenFondoNegro2.a8621ec6c567b688378dac06cb7d06de.svg",
+    "static/media/logo_unicef.png": "/static/media/logo_unicef.583513d10493357ed884.png",
     "static/media/imagenFondoNegro3.svg": "/static/media/imagenFondoNegro3.20215e17bcb1d74300f545fd49cf6f75.svg",
     "static/media/unicef-frase-2.svg": "/static/media/unicef-frase-2.0b6b68d1d6f63b171329049a25958fe7.svg",
     "static/media/unicef_kit.svg": "/static/media/unicef_kit.aa5beb5e92a3c161b8b4510dfc26b81f.svg",
@@ -23,11 +24,11 @@
     "static/media/faqs.svg": "/static/media/faqs.b5261c23680ef2ebd18342c49c74673b.svg",
     "index.html": "/index.html",
     "main.4152a928.css.map": "/static/css/main.4152a928.css.map",
-    "main.a0f2ad70.js.map": "/static/js/main.a0f2ad70.js.map",
+    "main.697579fe.js.map": "/static/js/main.697579fe.js.map",
     "787.ad0a39f2.chunk.js.map": "/static/js/787.ad0a39f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4152a928.css",
-    "static/js/main.a0f2ad70.js"
+    "static/js/main.697579fe.js"
   ]
 }
