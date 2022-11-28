@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4152a928.css",
-    "main.js": "/static/js/main.697579fe.js",
+    "main.js": "/static/js/main.dac14771.js",
     "static/js/787.ad0a39f2.chunk.js": "/static/js/787.ad0a39f2.chunk.js",
     "static/media/Concept6.png": "/static/media/Concept6.7db39002565fa9b0f3ae.png",
     "static/media/concept11.png": "/static/media/concept11.de00299f9488d90409b1.png",
@@ -24,11 +24,11 @@
     "static/media/faqs.svg": "/static/media/faqs.b5261c23680ef2ebd18342c49c74673b.svg",
     "index.html": "/index.html",
     "main.4152a928.css.map": "/static/css/main.4152a928.css.map",
-    "main.697579fe.js.map": "/static/js/main.697579fe.js.map",
+    "main.dac14771.js.map": "/static/js/main.dac14771.js.map",
     "787.ad0a39f2.chunk.js.map": "/static/js/787.ad0a39f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4152a928.css",
-    "static/js/main.697579fe.js"
+    "static/js/main.dac14771.js"
   ]
 }
