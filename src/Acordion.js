@@ -1,6 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
 import "./acordion.css"
+import {BrowserView, MobileView} from 'react-device-detect';
 
 const Acordionqlo = () => {
 
@@ -13,6 +14,7 @@ const Acordionqlo = () => {
             setSelected(i)
     }
   return (
+    
     <div className="wrapper">
         <div className='accordion'>
            {data.map((item, i) => {
