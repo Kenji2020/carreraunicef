@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.4152a928.css",
-    "main.js": "/static/js/main.dac14771.js",
+    "main.js": "/static/js/main.965dd97e.js",
     "static/js/787.ad0a39f2.chunk.js": "/static/js/787.ad0a39f2.chunk.js",
     "static/media/Concept6.png": "/static/media/Concept6.7db39002565fa9b0f3ae.png",
+    "static/media/blackFriday2.png": "/static/media/blackFriday2.59e7a08ba22a5c4bf019.png",
     "static/media/concept11.png": "/static/media/concept11.de00299f9488d90409b1.png",
     "static/media/backgroundblanco.png": "/static/media/backgroundblanco.839577af2e55cc344ddc.png",
     "static/media/Concept4.png": "/static/media/Concept4.b7c20ed37156168d71da.png",
@@ -24,11 +25,11 @@
     "static/media/faqs.svg": "/static/media/faqs.b5261c23680ef2ebd18342c49c74673b.svg",
     "index.html": "/index.html",
     "main.4152a928.css.map": "/static/css/main.4152a928.css.map",
-    "main.dac14771.js.map": "/static/js/main.dac14771.js.map",
+    "main.965dd97e.js.map": "/static/js/main.965dd97e.js.map",
     "787.ad0a39f2.chunk.js.map": "/static/js/787.ad0a39f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4152a928.css",
-    "static/js/main.dac14771.js"
+    "static/js/main.965dd97e.js"
   ]
 }
