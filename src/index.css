@@ -2,17 +2,11 @@ body{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-image: url("./assets/backgroundblanco.png");
-  background-repeat: no-repeat;
-  background-size: 100% 10%;
-  background-attachment: scroll;
   padding: 0px;
   margin: 0px;
+  background-color: black;
 }
 
-.imagendefondo1{
-  background-image: url("./assets/backgroundblanco.png");
-}
 .fondoNegro{
   background-color: black;
 }
@@ -57,4 +51,32 @@ body{
 
   }
 
-  
+  .textito3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+  }
+  .textito2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+  }
+
+  .textito{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+  }
+ 
